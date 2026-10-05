@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer  predator\\RiderProjects\\workshop_1\\Task_1\\Task_1.csproj": {}
+    "C:\\Users\\Acer  predator\\RiderProjects\\workshop_1\\Task_02\\Task_02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer  predator\\RiderProjects\\workshop_1\\Task_1\\Task_1.csproj": {
+    "C:\\Users\\Acer  predator\\RiderProjects\\workshop_1\\Task_02\\Task_02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer  predator\\RiderProjects\\workshop_1\\Task_1\\Task_1.csproj",
-        "projectName": "Task_1",
-        "projectPath": "C:\\Users\\Acer  predator\\RiderProjects\\workshop_1\\Task_1\\Task_1.csproj",
+        "projectUniqueName": "C:\\Users\\Acer  predator\\RiderProjects\\workshop_1\\Task_02\\Task_02.csproj",
+        "projectName": "Task_02",
+        "projectPath": "C:\\Users\\Acer  predator\\RiderProjects\\workshop_1\\Task_02\\Task_02.csproj",
         "packagesPath": "C:\\Users\\Acer  predator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer  predator\\RiderProjects\\workshop_1\\Task_1\\obj\\",
+        "outputPath": "C:\\Users\\Acer  predator\\RiderProjects\\workshop_1\\Task_02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer  predator\\AppData\\Roaming\\NuGet\\NuGet.Config"
